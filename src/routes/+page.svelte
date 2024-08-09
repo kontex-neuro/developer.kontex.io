@@ -1,3 +1,9 @@
+<button
+  class="btn btn-primary"
+  data-toggle-theme="dark,light"
+  data-act-class="ACTIVECLASS">Toggle Theme</button
+>
+
 <h1 class="text-3xl font-bold underline">
   Hello world!
 </h1>
