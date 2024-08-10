@@ -25,7 +25,7 @@
     <h3 class="text-xl mb-3 ml-6">
       <a
         class="link link-primary link-hover"
-        href="https://developer.kontex.io/libxdaq/"
+        href="/libxdaq"
         title="libxdaq API documentation">libxdaq API Documentation</a
       >
       <span> - Interface for controlling different generations of XDAQ</span>
@@ -46,7 +46,7 @@
     <h3 class="text-xl mb-3 ml-6">
       <a
         class="link link-primary link-hover"
-        href="https://drive.google.com/file/d/1aP8nUAXBEV7Ncexygt_Rs6mdWZY8Yau-/view?usp=drive_link"
+        href="/downloads/XDAQ-Driver-Win.zip"
         title="XDAQ Gen2 Windows Driver">XDAQ Gen2 Driver (Windows)</a
       >
       <span>
