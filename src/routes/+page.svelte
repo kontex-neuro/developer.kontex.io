@@ -84,4 +84,17 @@
       <span> - FrontPanel USB drivers for XDAQ.</span>
     </h3>
   </div>
+
+  <h2 class="text-2xl font-bold mb-3 mt-3">XDAQ Tools</h2>
+
+  <div>
+    <h3 class="text-xl mb-3 ml-6">
+      <a
+        class="link link-primary link-hover"
+        href="/downloads/XDAQ-Firmware-Updater.exe"
+        title="XDAQ Gen2 Windows Driver">XDAQ Gen2 Firmware Updater (Windows)</a
+      >
+      <span> - Firmware Updater for XDAQ Gen 2 Devices</span>
+    </h3>
+  </div>
 </div>
