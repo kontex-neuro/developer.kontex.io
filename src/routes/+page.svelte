@@ -41,7 +41,7 @@
 
     <div class="text-xl mb-3 ml-6">
       <b>XDAQ-OE-NP</b>
-      <span> - An Open Ephys plugin for using XDAQ with Neuro Pixel headstages.</span>
+      <span> - An Open Ephys plugin for using XDAQ with Neuropixels.</span>
 
       <div class="ml-6 max-w-screen-lg text-lg">
         The latest version of the XDAQ-OE-NP Plugin is not yet available via the
@@ -59,7 +59,7 @@
 
     <div class="text-xl mb-3 ml-6">
       <b>Thor Vision</b>
-      <span> - A Desktop Video Capture GUI with synchronized XDAQ metadata.</span>
+      <span> - Video recorder with XDAQ generated timestamp. </span>
 
       <div class="ml-6 max-w-screen-lg text-lg">
         <a
