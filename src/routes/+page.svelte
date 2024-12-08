@@ -56,6 +56,21 @@
         </p>
       </div>
     </div>
+
+    <div class="text-xl mb-3 ml-6">
+      <b>Thor Vision</b>
+      <span> - A Desktop Video Capture GUI with synchronized XDAQ metadata.</span>
+
+      <div class="ml-6 max-w-screen-lg text-lg">
+        <a
+          class="link link-primary link-hover"
+          href="https://github.com/kontex-neuro/XDAQ-VC/releases/download/v0.0.1/XDAQ-VC-0.0.1-win64.exe">[Windows]</a
+        >
+        <p class="text-sm mt-2">
+          <i>Note: The source code for Thor Vision will be made available in a future release.</i>
+        </p>
+      </div>
+    </div>
   </div>
 
   <h2 class="text-2xl font-bold mb-3 mt-3">XDAQ APIs</h2>
