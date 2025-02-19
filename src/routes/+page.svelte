@@ -15,7 +15,8 @@
         below:
         <a
           class="link link-primary link-hover"
-          href="/downloads/XDAQ-RHX-1.2.0-win64.exe">[Windows]</a
+          href="https://xdaq.sgp1.cdn.digitaloceanspaces.com/XDAQ-RHX-1.2.0-win64.exe"
+          >[Windows]</a
         >
       </div>
     </div>
@@ -26,7 +27,9 @@
         href="https://github.com/kontex-neuro/XDAQ-OE"
         title="XDAQ-OE on GitHub">XDAQ-OE</a
       >
-      <span> - An Open Ephys plugin enabling XDAQ use with Intan headstages.</span>
+      <span>
+        - An Open Ephys plugin enabling XDAQ use with Intan headstages.</span
+      >
 
       <div class="ml-6 max-w-screen-lg text-lg">
         The latest version of the XDAQ-OE Plugin is not yet available via the
@@ -34,7 +37,8 @@
         installer using the link below:
         <a
           class="link link-primary link-hover"
-          href="/downloads/XDAQ-OE-0.2.0-win64.exe">[Windows]</a
+          href="https://xdaq.sgp1.cdn.digitaloceanspaces.com/XDAQ-OE-0.2.0-win64.exe"
+          >[Windows]</a
         >
       </div>
     </div>
@@ -49,26 +53,36 @@
         installer using the link below:
         <a
           class="link link-primary link-hover"
-          href="/downloads/XDAQ-OE-NP-0.1.1-win64.exe">[Windows]</a
+          href="https://xdaq.sgp1.cdn.digitaloceanspaces.com/XDAQ-OE-NP-0.1.1-win64.exe"
+          >[Windows]</a
         >
         <p class="text-sm mt-2">
-          <i>Note: The source code for XDAQ-OE-NP will be made available in a future release.</i>
+          <i
+            >Note: The source code for XDAQ-OE-NP will be made available in a
+            future release.</i
+          >
         </p>
       </div>
     </div>
 
     <div class="text-xl mb-3 ml-6">
-      <b>Thor Vision</b>
-      <span> - Video recorder with XDAQ generated timestamp. </span>
+      <a
+        class="link link-primary link-hover"
+        href="https://github.com/kontex-neuro/ThorVision"
+        title="Thor Vision on GitHub">Thor Vision</a
+      >
+      <span>
+        - A GUI app for seamless control and video capture from USB cameras on
+        the XDAQ AIO.</span
+      >
 
       <div class="ml-6 max-w-screen-lg text-lg">
+        You can download the installer using the link below:
         <a
           class="link link-primary link-hover"
-          href="https://github.com/kontex-neuro/XDAQ-VC/releases/download/v0.0.1/XDAQ-VC-0.0.1-win64.exe">[Windows]</a
+          href="https://xdaq.sgp1.cdn.digitaloceanspaces.com/XDAQ-VC-0.0.1-win64.exe"
+          >[Windows]</a
         >
-        <p class="text-sm mt-2">
-          <i>Note: The source code for Thor Vision will be made available in a future release.</i>
-        </p>
       </div>
     </div>
   </div>
@@ -82,7 +96,9 @@
         href="/libxdaq"
         title="libxdaq API documentation">libxdaq API Documentation</a
       >
-      <span> - The interface for controlling different generations of XDAQ.</span>
+      <span>
+        - The interface for controlling different generations of XDAQ.</span
+      >
     </div>
 
     <div class="text-xl mb-3 ml-6">
@@ -101,11 +117,12 @@
     <h3 class="text-xl mb-3 ml-6">
       <a
         class="link link-primary link-hover"
-        href="/downloads/XDAQ-Driver-Win.zip"
+        href="https://xdaq.sgp1.cdn.digitaloceanspaces.com/XDAQ-Driver-Win.zip"
         title="XDAQ Gen2 Windows Driver">XDAQ Gen2 Driver (Windows)</a
       >
       <span>
-        - The Windows driver for XDAQ Gen2, which uses Thunderbolt instead of USB.</span
+        - The Windows driver for XDAQ Gen2, which uses Thunderbolt instead of
+        USB.</span
       >
     </h3>
     <h3 class="text-xl mb-3 ml-6">
@@ -124,8 +141,9 @@
     <h3 class="text-xl mb-3 ml-6">
       <a
         class="link link-primary link-hover"
-        href="/downloads/XDAQ-Firmware-Updater.exe"
-        title="XDAQ Gen2 Firmware Updater">XDAQ Gen2 Firmware Updater (Windows)</a
+        href="https://xdaq.sgp1.cdn.digitaloceanspaces.com/XDAQ-Firmware-Updater.exe"
+        title="XDAQ Gen2 Firmware Updater"
+        >XDAQ Gen2 Firmware Updater (Windows)</a
       >
       <span> - A firmware updater for XDAQ Gen 2 devices.</span>
     </h3>
