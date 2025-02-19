@@ -77,7 +77,14 @@
       >
 
       <div class="ml-6 max-w-screen-lg text-lg">
-        You can download the installer using the link below:
+        <a
+          class="link link-primary link-hover"
+          href="https://kontex-neuro.github.io/ThorVision/">Documentation</a
+        >
+      </div>
+
+      <div class="ml-6 max-w-screen-lg text-lg">
+        Download link:
         <a
           class="link link-primary link-hover"
           href="https://xdaq.sgp1.cdn.digitaloceanspaces.com/XDAQ-VC-0.0.1-win64.exe"
