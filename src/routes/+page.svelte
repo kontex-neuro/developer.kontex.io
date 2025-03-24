@@ -15,7 +15,7 @@
         below:
         <a
           class="link link-primary link-hover"
-          href="https://xdaq.sgp1.cdn.digitaloceanspaces.com/XDAQ-RHX-1.2.0-win64.exe"
+          href="/downloads/XDAQ-RHX-1.2.0-win64.exe"
           >[Windows]</a
         >
       </div>
@@ -37,7 +37,7 @@
         installer using the link below:
         <a
           class="link link-primary link-hover"
-          href="https://xdaq.sgp1.cdn.digitaloceanspaces.com/XDAQ-OE-0.2.0-win64.exe"
+          href="/downloads/XDAQ-OE-0.2.0-win64.exe"
           >[Windows]</a
         >
       </div>
@@ -53,7 +53,7 @@
         installer using the link below:
         <a
           class="link link-primary link-hover"
-          href="https://xdaq.sgp1.cdn.digitaloceanspaces.com/XDAQ-OE-NP-0.1.1-win64.exe"
+          href="/downloads/XDAQ-OE-NP-0.1.1-win64.exe"
           >[Windows]</a
         >
         <p class="text-sm mt-2">
@@ -87,7 +87,7 @@
         Download link:
         <a
           class="link link-primary link-hover"
-          href="https://xdaq.sgp1.cdn.digitaloceanspaces.com/XDAQ-VC-0.0.1-win64.exe"
+          href="/downloads/XDAQ-VC-0.0.1-win64.exe"
           >[Windows]</a
         >
       </div>
@@ -124,7 +124,7 @@
     <h3 class="text-xl mb-3 ml-6">
       <a
         class="link link-primary link-hover"
-        href="https://xdaq.sgp1.cdn.digitaloceanspaces.com/XDAQ-Driver-Win.zip"
+        href="/downloads/XDAQ-Driver-Win.zip"
         title="XDAQ Gen2 Windows Driver">XDAQ Gen2 Driver (Windows)</a
       >
       <span>
@@ -148,7 +148,7 @@
     <h3 class="text-xl mb-3 ml-6">
       <a
         class="link link-primary link-hover"
-        href="https://xdaq.sgp1.cdn.digitaloceanspaces.com/XDAQ-Firmware-Updater.exe"
+        href="/downloads/XDAQ-Firmware-Updater.exe"
         title="XDAQ Gen2 Firmware Updater"
         >XDAQ Gen2 Firmware Updater (Windows)</a
       >
