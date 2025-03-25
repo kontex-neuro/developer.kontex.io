@@ -34,10 +34,10 @@
     <slot />
   </div>
 
-  <footer class="flex-none footer bg-neutral text-neutral-content p-10">
+  <footer class="flex-none footer bg-base-200 text-base-content p-10">
     <aside class="flex">
       Copyright © {new Date().getFullYear()},
-      <a class="link link-hover" href="https://kontex.io/"
+      <a class="link link-hover" href="https://www.kontex.io/"
         >KonteX Neuroscience</a
       >. All Rights Reserved.
     </aside>

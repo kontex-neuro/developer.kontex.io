@@ -15,8 +15,7 @@
         below:
         <a
           class="link link-primary link-hover"
-          href="/downloads/XDAQ-RHX-1.2.0-win64.exe"
-          >[Windows]</a
+          href="/downloads/XDAQ-RHX-1.2.0-win64.exe">[Windows]</a
         >
       </div>
     </div>
@@ -37,8 +36,7 @@
         installer using the link below:
         <a
           class="link link-primary link-hover"
-          href="/downloads/XDAQ-OE-0.2.0-win64.exe"
-          >[Windows]</a
+          href="/downloads/XDAQ-OE-0.2.0-win64.exe">[Windows]</a
         >
       </div>
     </div>
@@ -53,8 +51,7 @@
         installer using the link below:
         <a
           class="link link-primary link-hover"
-          href="/downloads/XDAQ-OE-NP-0.1.1-win64.exe"
-          >[Windows]</a
+          href="/downloads/XDAQ-OE-NP-0.1.1-win64.exe">[Windows]</a
         >
         <p class="text-sm mt-2">
           <i
@@ -87,8 +84,7 @@
         Download link:
         <a
           class="link link-primary link-hover"
-          href="/downloads/XDAQ-VC-0.0.1-win64.exe"
-          >[Windows]</a
+          href="/downloads/XDAQ-VC-0.0.1-win64.exe">[Windows]</a
         >
       </div>
     </div>
