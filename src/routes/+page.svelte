@@ -10,13 +10,14 @@
       <span> - A fork of Intan RHX, now exclusively supporting XDAQ.</span>
 
       <div class="ml-6 max-w-screen-lg text-lg">
-        The latest version of XDAQ-RHX is not yet available on the GitHub
-        Releases page. You can download the pre-built installer using the link
-        below:
+        The latest version of XDAQ-RHX is available on the GitHub Releases page:
         <a
           class="link link-primary link-hover"
-          href="/downloads/XDAQ-RHX-1.2.0-win64.exe">[Windows]</a
+          href="https://github.com/kontex-neuro/Intan-RHX/releases"
+          >[GitHub Release]</a
         >
+        <br />
+        Gen 2 XDAQ users should use the latest 1.2.X release.
       </div>
     </div>
 
@@ -27,16 +28,15 @@
         title="XDAQ-OE on GitHub">XDAQ-OE</a
       >
       <span>
-        - An Open Ephys plugin enabling XDAQ use with Intan headstages.</span
-      >
+        - An Open Ephys plugin for using XDAQ with Intan headstages.
+      </span>
 
       <div class="ml-6 max-w-screen-lg text-lg">
-        The latest version of the XDAQ-OE Plugin is not yet available via the
-        Open Ephys plugin installer. You can download the pre-built plugin
-        installer using the link below:
+        The latest version of the XDAQ-OE is not yet available through the Open
+        Ephys plugin installer. Download the pre-built plugin installer:
         <a
           class="link link-primary link-hover"
-          href="/downloads/XDAQ-OE-0.2.0-win64.exe">[Windows]</a
+          href="/downloads/XDAQ-OE-0.2.1-win64.exe">[Windows XDAQ-OE-0.2.1]</a
         >
       </div>
     </div>
@@ -46,9 +46,8 @@
       <span> - An Open Ephys plugin for using XDAQ with Neuropixels.</span>
 
       <div class="ml-6 max-w-screen-lg text-lg">
-        The latest version of the XDAQ-OE-NP Plugin is not yet available via the
-        Open Ephys plugin installer. You can download the pre-built plugin
-        installer using the link below:
+        XDAQ-OE-NP is not yet available through the Open Ephys plugin installer.
+        Download the pre-built installer:
         <a
           class="link link-primary link-hover"
           href="/downloads/XDAQ-OE-NP-0.1.1-win64.exe">[Windows]</a
@@ -69,9 +68,9 @@
         title="Thor Vision on GitHub">Thor Vision</a
       >
       <span>
-        - A GUI app for seamless control and video capture from USB cameras on
-        the XDAQ AIO.</span
-      >
+        - A GUI application for seamless control and video capture from USB
+        cameras on XDAQ AIO.
+      </span>
 
       <div class="ml-6 max-w-screen-lg text-lg">
         <a
@@ -81,7 +80,7 @@
       </div>
 
       <div class="ml-6 max-w-screen-lg text-lg">
-        Download link:
+        Download:
         <a
           class="link link-primary link-hover"
           href="/downloads/XDAQ-VC-0.0.1-win64.exe">[Windows]</a
@@ -99,9 +98,7 @@
         href="/libxdaq"
         title="libxdaq API documentation">libxdaq API Documentation</a
       >
-      <span>
-        - The interface for controlling different generations of XDAQ.</span
-      >
+      <span> - The API for controlling all generations of XDAQ.</span>
     </div>
 
     <div class="text-xl mb-3 ml-6">
@@ -124,9 +121,9 @@
         title="XDAQ Gen2 Windows Driver">XDAQ Gen2 Driver (Windows)</a
       >
       <span>
-        - The Windows driver for XDAQ Gen2, which uses Thunderbolt instead of
-        USB.</span
-      >
+        - The Windows driver for XDAQ Gen2, which communicates via Thunderbolt
+        instead of USB.
+      </span>
     </h3>
     <h3 class="text-xl mb-3 ml-6">
       <a
