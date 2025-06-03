@@ -89,28 +89,6 @@
     </div>
   </div>
 
-  <h2 class="text-2xl font-bold mb-3 mt-3">XDAQ APIs</h2>
-
-  <div>
-    <div class="text-xl mb-3 ml-6">
-      <a
-        class="link link-primary link-hover"
-        href="/libxdaq"
-        title="libxdaq API documentation">libxdaq API Documentation</a
-      >
-      <span> - The API for controlling all generations of XDAQ.</span>
-    </div>
-
-    <div class="text-xl mb-3 ml-6">
-      <a
-        class="link link-primary link-hover"
-        href="https://github.com/kontex-neuro/libxdaq-dist"
-        title="libxdaq binary distribution">libxdaq-dist</a
-      >
-      <span> - The binary distribution of libxdaq.</span>
-    </div>
-  </div>
-
   <h2 class="text-2xl font-bold mb-3 mt-3">XDAQ Drivers</h2>
 
   <div>
@@ -138,14 +116,58 @@
   <h2 class="text-2xl font-bold mb-3 mt-3">XDAQ Tools</h2>
 
   <div>
-    <h3 class="text-xl mb-3 ml-6">
+    <div class="text-xl mb-3 ml-6">
+      <b> XDAQ Gen1 License Updater </b>
+      <span> - The license updater for XDAQ Gen 1 devices.</span>
+      <div class="ml-6 max-w-screen-lg text-lg">
+        Download:
+        <a
+          class="link link-primary link-hover"
+          href="/downloads/KonteX.License.Updater.Win.zip"
+          title="XDAQ Gen2 Firmware Updater">[Windows]</a
+        >
+        <a
+          class="link link-primary link-hover"
+          href="/downloads/KonteX.License.Updater.Mac.zip"
+          title="XDAQ Gen2 Firmware Updater">[Mac]</a
+        >
+        <a
+          class="link link-primary link-hover"
+          href="/downloads/KonteX.License.Updater.Ubuntu.zip"
+          title="XDAQ Gen2 Firmware Updater">[Ubuntu]</a
+        >
+      </div>
+    </div>
+    <div class="text-xl mb-3 ml-6">
       <a
         class="link link-primary link-hover"
         href="/downloads/XDAQ-Firmware-Updater.exe"
         title="XDAQ Gen2 Firmware Updater"
         >XDAQ Gen2 Firmware Updater (Windows)</a
       >
-      <span> - A firmware updater for XDAQ Gen 2 devices.</span>
-    </h3>
+      <span> - The firmware updater for XDAQ Gen 2 devices.</span>
+    </div>
+  </div>
+
+  <h2 class="text-2xl font-bold mb-3 mt-3">XDAQ APIs</h2>
+
+  <div>
+    <div class="text-xl mb-3 ml-6">
+      <a
+        class="link link-primary link-hover"
+        href="/libxdaq"
+        title="libxdaq API documentation">libxdaq API Documentation</a
+      >
+      <span> - The API for controlling all generations of XDAQ.</span>
+    </div>
+
+    <div class="text-xl mb-3 ml-6">
+      <a
+        class="link link-primary link-hover"
+        href="https://github.com/kontex-neuro/libxdaq-dist"
+        title="libxdaq binary distribution">libxdaq-dist</a
+      >
+      <span> - The binary distribution of libxdaq.</span>
+    </div>
   </div>
 </div>
