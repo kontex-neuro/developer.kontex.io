@@ -1,13 +1,16 @@
-<div class="container mx-auto p-4">
+<div class="container mx-auto p-4 max-w-5xl">
   <div>
     <h2 class="text-2xl font-bold mb-3">Open Source Software</h2>
+    <hr class="mb-4" />
     <div class="text-xl mb-3 ml-6">
       <a
         class="link link-primary link-hover"
         href="https://github.com/kontex-neuro/Intan-RHX"
         title="XDAQ-RHX on GitHub">XDAQ-RHX</a
       >
-      <span> - A fork of Intan RHX, now exclusively supporting XDAQ.</span>
+      <span>
+        - A fork of Intan RHX that now exclusively supports XDAQ devices.</span
+      >
 
       <div class="ml-6 max-w-screen-lg text-lg">
         The latest version of XDAQ-RHX is available on the GitHub Releases page:
@@ -17,7 +20,7 @@
           >[GitHub Release]</a
         >
         <br />
-        Gen 2 XDAQ users should use the latest 1.2.X release.
+        Gen 2 XDAQ users should use the latest 1.2.x release.
       </div>
     </div>
 
@@ -28,22 +31,21 @@
         title="XDAQ-OE on GitHub">XDAQ-OE</a
       >
       <span>
-        - An Open Ephys plugin for using XDAQ with Intan headstages.
+        - An Open Ephys plugin for using XDAQ devices with Intan headstages.
       </span>
 
       <div class="ml-6 max-w-screen-lg text-lg">
-        The latest version of the XDAQ-OE is not yet available through the Open
-        Ephys plugin installer. Download the pre-built plugin installer:
-        <a
-          class="link link-primary link-hover"
-          href="/downloads/XDAQ-OE-0.2.1-win64.exe">[Windows XDAQ-OE-0.2.1]</a
-        >
+        The plugin is available through the Open Ephys plugin installer. Both
+        Gen 1 and Gen 2 XDAQ devices are supported.
       </div>
     </div>
 
     <div class="text-xl mb-3 ml-6">
       <b>XDAQ-OE-NP</b>
-      <span> - An Open Ephys plugin for using XDAQ with Neuropixels.</span>
+      <span>
+        - An Open Ephys plugin for using Gen 2 XDAQ devices with Neuropixels
+        probes.</span
+      >
 
       <div class="ml-6 max-w-screen-lg text-lg">
         XDAQ-OE-NP is not yet available through the Open Ephys plugin installer.
@@ -89,67 +91,89 @@
     </div>
   </div>
 
-  <h2 class="text-2xl font-bold mb-3 mt-3">XDAQ Drivers</h2>
+  <h2 class="text-2xl font-bold mb-3 mt-8">XDAQ Drivers</h2>
+  <hr class="mb-4" />
 
   <div>
     <h3 class="text-xl mb-3 ml-6">
-      <a
-        class="link link-primary link-hover"
-        href="/downloads/XDAQ-Driver-Win.zip"
-        title="XDAQ Gen2 Windows Driver">XDAQ Gen2 Driver (Windows)</a
-      >
-      <span>
-        - The Windows driver for XDAQ Gen2, which communicates via Thunderbolt
-        instead of USB.
-      </span>
+      <b title="XDAQ Gen2 Windows Driver">XDAQ Gen2</b>
+      <span> - KonteX Thunderbolt driver</span>
+      <div class="ml-6 max-w-screen-lg text-lg">
+        Download:
+        <a
+          class="link link-primary link-hover"
+          href="/downloads/XDAQ-Driver-Win.zip"
+          title="XDAQ Gen2 Driver for Windows">[Windows]</a
+        >
+        <a
+          class="link link-primary link-hover"
+          href="https://apps.apple.com/tw/app/kontex-xdaq/id6504741285"
+          title="XDAQ Gen2 Driver for Mac">[Mac]</a
+        >
+        <span>[Contact us for Linux driver]</span>
+      </div>
     </h3>
     <h3 class="text-xl mb-3 ml-6">
-      <a
-        class="link link-primary link-hover"
-        href="https://pins.opalkelly.com/downloads"
-        title="OpalKelly FrontPanel USB Drivers">OpalKelly FrontPanel</a
-      >
-      <span> - FrontPanel USB drivers for XDAQ.</span>
+      <b>XDAQ Gen1</b>
+      <span> - FrontPanel USB drivers for XDAQ</span>
+      <div class="ml-6 max-w-screen-lg text-lg">
+        Download:
+        <a
+          class="link link-primary link-hover"
+          href="https://pins.opalkelly.com/downloads"
+          title="OpalKelly FrontPanel USB Drivers">OpalKelly FrontPanel</a
+        >
+      </div>
     </h3>
   </div>
 
-  <h2 class="text-2xl font-bold mb-3 mt-3">XDAQ Tools</h2>
+  <h2 class="text-2xl font-bold mb-3 mt-8">XDAQ Tools</h2>
+  <hr class="mb-4" />
 
   <div>
     <div class="text-xl mb-3 ml-6">
-      <b> XDAQ Gen1 License Updater </b>
-      <span> - The license updater for XDAQ Gen 1 devices.</span>
+      <b>XDAQ Gen2 Firmware Updater</b>
+      <span> - The firmware updater for XDAQ Gen 2 devices</span>
+      <div class="ml-6 max-w-screen-lg text-lg">
+        Download:
+        <a
+          class="link link-primary link-hover"
+          href="/downloads/XDAQ-Firmware-Updater.exe"
+          title="XDAQ Gen2 Firmware Updater">[Windows]</a
+        >
+        <a
+          class="link link-primary link-hover"
+          href="/downloads/XDAQ-Firmware-Updater.app.zip"
+          title="XDAQ Gen2 Firmware Updater">[Mac]</a
+        >
+      </div>
+    </div>
+    <div class="text-xl mb-3 ml-6">
+      <b>XDAQ Gen1 License Updater</b>
+      <span> - The license updater for XDAQ Gen 1 devices</span>
       <div class="ml-6 max-w-screen-lg text-lg">
         Download:
         <a
           class="link link-primary link-hover"
           href="/downloads/KonteX.License.Updater.Win.zip"
-          title="XDAQ Gen2 Firmware Updater">[Windows]</a
+          title="XDAQ Gen1 License Updater">[Windows]</a
         >
         <a
           class="link link-primary link-hover"
           href="/downloads/KonteX.License.Updater.Mac.zip"
-          title="XDAQ Gen2 Firmware Updater">[Mac]</a
+          title="XDAQ Gen1 License Updater">[Mac]</a
         >
         <a
           class="link link-primary link-hover"
           href="/downloads/KonteX.License.Updater.Ubuntu.zip"
-          title="XDAQ Gen2 Firmware Updater">[Ubuntu]</a
+          title="XDAQ Gen1 License Updater">[Ubuntu]</a
         >
       </div>
     </div>
-    <div class="text-xl mb-3 ml-6">
-      <a
-        class="link link-primary link-hover"
-        href="/downloads/XDAQ-Firmware-Updater.exe"
-        title="XDAQ Gen2 Firmware Updater"
-        >XDAQ Gen2 Firmware Updater (Windows)</a
-      >
-      <span> - The firmware updater for XDAQ Gen 2 devices.</span>
-    </div>
   </div>
 
-  <h2 class="text-2xl font-bold mb-3 mt-3">XDAQ APIs</h2>
+  <h2 class="text-2xl font-bold mb-3 mt-8">XDAQ APIs</h2>
+  <hr class="mb-4" />
 
   <div>
     <div class="text-xl mb-3 ml-6">
