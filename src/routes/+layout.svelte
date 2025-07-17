@@ -2,6 +2,7 @@
   import "../app.css";
   import { onMount } from "svelte";
   import { themeChange } from "theme-change";
+  let { children } = $props();
 
   // NOTE: the element that is using one of the theme attributes must be in the DOM on mount
   onMount(() => {
@@ -31,7 +32,7 @@
   </div>
 
   <div class="grow">
-    <slot />
+    {@render children?.()}
   </div>
 
   <footer class="flex-none footer bg-base-200 text-base-content p-10">
