@@ -170,6 +170,18 @@
         >
       </div>
     </div>
+    <div class="text-xl mb-3 ml-6">
+      <b>XDAQ ThorVision Updater</b>
+      <span> - The ThorVision updater for XDAQ Gen2 devices</span>
+      <div class="ml-6 max-w-screen-lg text-lg">
+        Download:
+        <a
+          class="link link-primary link-hover"
+          href="/downloads/ThorVisionUpdater_win_x64_1.0.0.exe"
+          title="XDAQ ThorVision Updater">[Windows]</a
+        >
+      </div>
+    </div>
   </div>
 
   <h2 class="text-2xl font-bold mb-3 mt-8">XDAQ APIs</h2>
