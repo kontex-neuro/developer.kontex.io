@@ -82,10 +82,11 @@
       </div>
 
       <div class="ml-6 max-w-screen-lg text-lg">
-        Download:
+        GitHub Release Download:
         <a
           class="link link-primary link-hover"
-          href="/downloads/XDAQ-VC-0.0.1-win64.exe">[Windows]</a
+          href="https://github.com/kontex-neuro/ThorVision/releases/tag/v1.0.1"
+          >v1.0.1</a
         >
       </div>
     </div>
